@@ -6,7 +6,6 @@ exports.handler = async (event) => {
             num1 : num1,
             num2 : num2,
             result : num1 + num2
-        }
-        )
+        })
     }
 }
